@@ -1,6 +1,6 @@
 # Giphy Search!
 
-## Instructions
+##  Instructions
 
 You're going to be building out a Gif search using the Giphy API. In this lab, 
 there are no tests to pass. Rather, your task is to create a working app in
